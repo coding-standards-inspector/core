@@ -1,0 +1,26 @@
+{
+  "name": "@coding-standards-inspector/core",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc --pretty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-standards-inspector/core.git"
+  },
+  "author": "Oleh Polishchuk <oleh.polishchuk.ck@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-standards-inspector/core/issues"
+  },
+  "homepage": "https://github.com/coding-standards-inspector/core#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "typescript": "^5.3.3"
+  }
+}
